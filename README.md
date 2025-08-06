@@ -86,7 +86,7 @@ Git/GitHub • VS Code • Heroku • AWS S3 • Stripe Integration
 - 🌐 **Portfolio**: [cianorourke.com](http://cianorourke.com)
 - 📧 **Email**: cian.orourke@gmail.com
 - 📱 **Phone**: +353 85 2851692
-- 💼 **LinkedIn**: [Connect with me]([https://linkedin.com/in/cianorourke](https://www.linkedin.com/in/cian-o-rourke-8ba03a14a/))
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/cian-o-rourke-8ba03a14a/)
 
 ---
 
