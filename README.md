@@ -1,115 +1,123 @@
-# Hi there, I'm Cian O'Rourke! 👋
+# Hi, I'm Cian O'Rourke 👋
 
-## 💻 Frontend Developer | Problem Solver | Quick Learner
+## Frontend & Full-Stack Developer
 
-Welcome to my GitHub! I'm a frontend developer passionate about creating clean, responsive web applications. Currently seeking opportunities as an Associate Frontend Engineer to grow my skills and contribute to exciting projects.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🚀 About Me
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 🎓 **Computer Science Foundation**: Completed Harvard's CS50 course
-- 💼 **Practical Experience**: Code Institute Software Development Diploma graduate
-- 🌟 **Unique Background**: Bringing strong work ethic and problem-solving skills from hospitality management
-- 📍 **Location**: Dublin, Ireland
-- 🎯 **Goal**: Growing my career in frontend development and modern web technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS_S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
----
 
-### 🛠️ Tech Stack
-
-**Frontend Development**
-```
-HTML5 • CSS3 • JavaScript • jQuery • Bootstrap 5 • Responsive Design
-```
-
-**Backend & Database**
-```
-Python • Flask • Django • SQL • MongoDB
-```
-
-**Tools & Workflow**
-```
-Git/GitHub • VS Code • Heroku • AWS S3 • Stripe Integration
-```
+I’m a Dublin-based frontend developer with a strong foundation in computer science and full-stack development. I enjoy building clean, responsive, and user-focused web applications, and I’m actively seeking opportunities as an **Associate / Junior Frontend Engineer**.
 
 ---
 
-### 🎓 Education
+## 🚀 About Me
 
-**🏛️ Harvard University - CS50: Introduction to Computer Science (2019)**
-- Fundamental programming concepts and computational thinking
-- Data structures, algorithms, and computer science theory
-
-**🎯 Code Institute - Software Development Diploma (2019-2020)**
-- Full-stack web development with hands-on projects
-- Frontend and backend integration skills
+- 🎓 **CS50 Graduate (Harvard University)** — strong grounding in computer science fundamentals  
+- 💼 **Software Development Diploma (Code Institute)** — hands-on, project-based full-stack training  
+- 🧠 **Career Changer** — bringing leadership, resilience, and problem-solving from hospitality management  
+- 📍 **Based in Dublin, Ireland**  
+- 🎯 **Focus**: Frontend development, modern JavaScript, and performance-driven UI  
 
 ---
 
-### 🌟 Featured Projects
+## 🏆 Key Achievements
 
-#### 🛒 **E-Commerce Platform**
-- **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap, Stripe
-- **Features**: Responsive design, payment processing, user-friendly interface
-- **Highlights**: Mobile-first approach, cross-browser compatibility
-
-#### 📱 **Interactive Web Applications** 
-- **Tech Stack**: JavaScript, jQuery, CSS3, RESTful APIs
-- **Features**: Dynamic UI, real-time data, smooth animations
-- **Highlights**: Intuitive navigation, performance optimized
-
-*🌐 View live projects at: **[cianorourke.com](http://cianorourke.com)***
+- ✅ Completed **Harvard CS50**, mastering algorithms, data structures, and computational thinking  
+- ✅ Built and deployed **full-stack web applications** using Django, Flask, and modern frontend tools  
+- ✅ Integrated **Stripe payments**, cloud storage (AWS S3), and authentication systems  
+- ✅ Delivered **responsive, mobile-first UIs** with strong accessibility and UX principles  
+- ✅ Successfully transitioned into tech with a proven ability to **learn fast and deliver under pressure**  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+### Frontend
+HTML5 • CSS3 • JavaScript (ES6+) • jQuery • Bootstrap 5 • Responsive Design
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default)
+### Backend & Databases
+Python • Django • Flask • SQL • MongoDB
 
----
-
-### 🎯 What I Bring
-
-- ✅ **Strong Foundation**: CS50 + Code Institute training
-- ✅ **Work Ethic**: Proven ability to deliver under pressure
-- ✅ **Team Player**: Collaborative approach from hospitality background
-- ✅ **Problem Solver**: Quick to identify issues and implement solutions
-- ✅ **Growth Mindset**: Eager to learn new technologies and best practices
+### Tools & Platforms
+Git & GitHub • VS Code • Heroku • AWS S3 • Stripe • REST APIs
 
 ---
 
-### 🔗 Let's Connect!
+## 🌟 Featured Projects
 
-- 🌐 **Portfolio**: [cianorourke.com](http://cianorourke.com)
-- 📧 **Email**: cian.orourke@gmail.com
-- 📱 **Phone**: +353 85 2851692
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/cian-o-rourke-8ba03a14a/)
+### 🛒 E-Commerce Web Application
+**Tech:** HTML5, CSS3, JavaScript, Bootstrap, Stripe  
+- Implemented secure online payments with Stripe  
+- Designed a fully responsive, mobile-first UI  
+- Focused on usability, performance, and clean code structure  
 
----
+### 📱 Interactive Web Applications
+**Tech:** JavaScript, jQuery, REST APIs  
+- Built dynamic user interfaces with real-time data updates  
+- Optimized performance and smooth UI interactions  
+- Emphasis on accessibility and intuitive navigation  
 
-### 🌱 Currently Learning
-
-- Modern JavaScript frameworks (React, Vue.js)
-- Advanced CSS techniques and animations
-- Frontend testing best practices
-- Performance optimization strategies
-
----
-
-### ⚡ Fun Facts
-
-- 🍳 Former CDP at award-winning Dublin restaurants
-- 🌍 Worked across Ireland and the UK in various customer-facing roles
-- 🎯 Career changer who's passionate about technology and problem-solving
-- 📚 Continuous learner always exploring new technologies
+🌐 **Portfolio:** [cianorourke.com](http://cianorourke.com)
 
 ---
 
-*"Bringing creativity, attention to detail, and a fresh perspective to frontend development!"*
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=COR1999&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COR1999&layout=compact)
+
 
 ---
 
-⭐ **Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities!**
+## 💡 What I Bring to a Team
+
+- Strong **CS fundamentals** paired with practical development experience  
+- Clear communicator with real-world teamwork and leadership skills  
+- High attention to detail and pride in clean, maintainable code  
+- Comfortable learning new tools, frameworks, and workflows  
+- Calm, reliable, and delivery-focused — even under pressure  
+
+---
+
+## 🌱 Currently Learning
+
+- React and modern frontend frameworks  
+- Advanced CSS and animations  
+- Frontend testing and best practices  
+- Performance optimization and web accessibility  
+
+---
+
+## 🔗 Let’s Connect
+
+- 🌐 Portfolio: [cianorourke.com](http://cianorourke.com)  
+- 💼 LinkedIn: [linkedin.com/in/cian-o-rourke](https://www.linkedin.com/in/cian-o-rourke-8ba03a14a/)  
+- 📧 Email: cian.orourke@gmail.com  
+
+---
+
+## ⚡ Fun Facts
+
+- 🍳 Former Chef de Partie in award-winning Dublin restaurants  
+- 🌍 Worked across Ireland and the UK in fast-paced environments  
+- 🎯 Career switcher who thrives on problem-solving and learning  
+- 📚 Lifelong learner with a genuine passion for technology  
+
+---
+
+⭐ Thanks for stopping by — feel free to explore my repositories or reach out!
