@@ -78,8 +78,10 @@ Git & GitHub • VS Code • Heroku • AWS S3 • Stripe • REST APIs
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=COR1999&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COR1999&layout=compact)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=COR1999&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COR1999&layout=compact&hide_title=true)
 
 
 ---
