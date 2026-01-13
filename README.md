@@ -76,14 +76,6 @@ Git & GitHub • VS Code • Heroku • AWS S3 • Stripe • REST APIs
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=COR1999&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=COR1999&layout=compact&hide_title=true)
-
-
----
-
 ## 💡 What I Bring to a Team
 
 - Strong **CS fundamentals** paired with practical development experience  
@@ -99,7 +91,8 @@ Git & GitHub • VS Code • Heroku • AWS S3 • Stripe • REST APIs
 - React and modern frontend frameworks  
 - Advanced CSS and animations  
 - Frontend testing and best practices  
-- Performance optimization and web accessibility  
+- Performance optimization and web accessibility
+- Software architecture 
 
 ---
 
