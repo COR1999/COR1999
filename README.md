@@ -76,6 +76,11 @@ Git & GitHub • VS Code • Heroku • AWS S3 • Stripe • REST APIs
 
 ---
 
+## Github Stats
+
+[![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=COR1999)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 💡 What I Bring to a Team
 
 - Strong **CS fundamentals** paired with practical development experience  
