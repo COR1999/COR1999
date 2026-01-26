@@ -77,9 +77,7 @@ Git & GitHub • VS Code • Heroku • AWS S3 • Stripe • REST APIs
 ---
 
 ## Github Stats
-
-[![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=COR1999)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Cian's GitHub stats](https://github-readme-stats.vercel.app/api?username=COR1999&show_icons=true&theme=radical)
 
 ## 💡 What I Bring to a Team
 
